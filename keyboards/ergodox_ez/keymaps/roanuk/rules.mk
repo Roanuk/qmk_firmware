@@ -3,4 +3,3 @@
 SRC = matrix.c
 RGBLIGHT_ENABLE = no
 RGB_MATRIX_ENABLE = yes
-KEY_LOCK_ENABLE = yes
